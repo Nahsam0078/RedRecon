@@ -1,4 +1,5 @@
 # 🛡️ **RedRecon** – AI-Powered Facial Recon for Red Team OSINT
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=RedRecon%3A+AI+Recon+for+Red+Teams;Facial+Recognition+for+OSINT+and+Pentesting;Built+for+Cyber+Ops+%26+Ethical+Hacking)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
